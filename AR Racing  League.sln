@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Racing  League", "AR Racing  League.csproj", "{4FDF111A-BAA6-FDE0-F495-0EE5FB517A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Racing  League.Editor", "AR Racing  League.Editor.csproj", "{FF990C2D-6304-3B12-B2D4-1EBBFFA8A490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FDF111A-BAA6-FDE0-F495-0EE5FB517A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDF111A-BAA6-FDE0-F495-0EE5FB517A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDF111A-BAA6-FDE0-F495-0EE5FB517A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDF111A-BAA6-FDE0-F495-0EE5FB517A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF990C2D-6304-3B12-B2D4-1EBBFFA8A490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF990C2D-6304-3B12-B2D4-1EBBFFA8A490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF990C2D-6304-3B12-B2D4-1EBBFFA8A490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF990C2D-6304-3B12-B2D4-1EBBFFA8A490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
